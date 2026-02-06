@@ -1,2 +1,1 @@
-# 0xrevenant
-Red-Ops SOC Toolkit: Where offensive methodology meets defensive excellence. An all-in-one repository for SOC teams to simulate, detect, and document modern cyber threats using automated behavioral analysis and industry-standard security frameworks.
+The Red-Ops SOC Toolkit is an integrated framework designed to bridge the gap between offensive security testing and defensive monitoring. Built for SOC analysts and Red Teamers, this repository provides a modular suite of tools for automated log normalization, behavioral threat detection, and adversary emulation. By utilizing a "Detection as Code" approach, it enables teams to validate their security stack against real-world TTPs, refine alert fidelity, and automate the triage of complex telemetry.
